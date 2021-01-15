@@ -12,7 +12,7 @@ author_profile: true
 <table>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Meeting time</td>
-<td colspan="1">T 3:30 - 6:15 (meets in EPIC 205)</td>
+<td colspan="1">TR 12:30 - 1:45 (Zoom)</td>
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Instructor</td>
