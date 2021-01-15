@@ -29,7 +29,7 @@ author_profile: true
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Office Hours</td>
-<td>MRF 12-1</td>
+<td>M 3:30-4:30, T 11-12, R 5-6</td>
 </tr>
 </table>
 
