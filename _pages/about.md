@@ -24,8 +24,7 @@ author_profile: true
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Office Location</td>
-<td>621 Comm. Ave.<br />Rm. 105</td>
-</td>
+<td>Kind of irrelevant.</td>
 </tr>
 <tr>
 <td style="text-align:right;background-color: #dddddd">Office Hours</td>
