@@ -13,8 +13,14 @@ $masthead-link-color: purple;
 // between masthead and content body
 $border-color: purple;
 
+// My table headers were unreadable without setting this explicitly
+table th {
+	background-color: palegreen;
+}
+
+// I want grid lines in my tables
 table td {
-	border: 1px solid grey;
+	border: 1px solid darkgreen;
 }
 @charset "utf-8";
 

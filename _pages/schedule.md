@@ -110,6 +110,9 @@ Chapters:sections refer to the NLTK book.
             </td>
             <td markdown="span">
                Tagging text, classification, (acquisition?)
+               Tagging text, classification, (acquisition?)
+               Tagging text, classification, (acquisition?)
+               Tagging text, classification, (acquisition?)
             </td>
             <td markdown="span">
                 NLTK 1-2
