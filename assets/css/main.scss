@@ -9,18 +9,18 @@ $global-transition : none;
 //$background-color:
 //$text-color: red;
 //$link-color:
-$masthead-link-color: purple;
+$masthead-link-color: #800080;
 // between masthead and content body
-$border-color: purple;
+$border-color: #800080;
 
 // My table headers were unreadable without setting this explicitly
 table th {
-	background-color: palegreen;
+	background-color: #98fb98;
 }
 
 // I want grid lines in my tables
 table td {
-	border: 1px solid darkgreen;
+	border: 1px solid #006400;
 }
 @charset "utf-8";
 
