@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Course information
 permalink: /about/
 author_profile: true
@@ -11,37 +11,55 @@ author_profile: true
 
 <table>
 <tr>
-<td style="text-align:right;background-color: #dddddd">Meeting time</td>
+<td class="row-label">Meeting time</td>
 <td colspan="1">TR 12:30 - 1:45 (Zoom)</td>
 </tr>
 <tr>
-<td style="text-align:right;background-color: #dddddd">Instructor</td>
+<td class="row-label">Instructor</td>
 <td>Paul Hagstrom</td>
 </tr>
 <tr>
-<td style="text-align:right;background-color: #dddddd">Email</td>
+<td class="row-label">Email</td>
 <td>hagstrom@bu.edu</td>
 </tr>
 <tr>
-<td style="text-align:right;background-color: #dddddd">Office Location</td>
+<td class="row-label">Office Location</td>
 <td>Kind of irrelevant.</td>
 </tr>
 <tr>
-<td style="text-align:right;background-color: #dddddd">Office Hours</td>
+<td class="row-label">Office Hours</td>
 <td>M 3:30-4:30, T 11-12, R 5-6</td>
 </tr>
 </table>
 
 **Course Description:**
-Introduction to computational techniques to explore linguistic models and test empirical claims. Serves as an introduction to algorithms, and data structures, and tool libraries. Topics include tagging and classification, parsing models, meaning representation, corpus creation, information extraction.
+Introduction to computational techniques to explore linguistic models and test empirical claims.  
+Serves as an introduction to algorithms, and data structures, and tool libraries.  
+Topics include tagging and classification, parsing models, meaning representation, corpus creation, information extraction.
+
+**Spring 2021 note on "tracks":**
+This course is usually taught as a low level course, which serves both as an introduction to programming in Python
+and as an introduction to Natural Language Processing and Computational Linguistics.
+Due to various circumstances, it will also be possible this semester to opt for a more
+advanced version of the course that assumes a programming background. The overall topics
+will largely be the same, but for people who have facility with programming already, we will
+approach some of the things in more detail and depth.
+Each student can opt into whichever "track" they feel comfortable with, and it is possible
+to switch around later, and to monitor what is happening in both tracks along the way.
+In order to accommodate this structure, the plan will be to cover common topics and concepts
+generally during the first class of a week, and then split the second class of the week up so
+that generally the first half hour is review of programming concepts for people who do not have
+background in programming, and the remainder is either common to both groups or, on occasion,
+mainly aimed at the group with more programming background. Again, everyone is perfectly welcome
+the whole time, regardless of which group they opt into.  Later in the semester, depending on how well
+this works, we may merge back together once everyone has some basic programming/Python familiarity.
 
 **Prerequisites:**
  - CAS LX 250 (Introduction to Linguistics)
- - CAS CS 112 (Introduction to Computer Science 2)
+ - Those with CAS CS 112 (Introduction to Computer Science 2) or equivalent likely should consider themselves to be in the more advanced track.
 
 **Antiprerequisites:**
- - CAS LX 394/GRS LX 694 (Introduction to Programming for Computational Linguistics).
-(Students who have taken the more basic version of the course are not eligible for this one.)
+ - If you have taken CAS LX 496/GRS LX 796/MET LX 596 (Computational Linguistics), that is redundant with this course.
 
 **Course Synopsis:**
 The quantity of language data available for natural language analysis has greatly increased in recent years,
@@ -60,8 +78,9 @@ investigate, a method for studying it, and a written paper reporting the results
 
 ## Instructional Format ##
 
-The course meets once a week on Tuesdays; the class meetings will be a mixture of introduction of the
-week's concepts and ungraded exercises and readings. Weekly homework will be assigned.
+The course meets twice a week (on Tuesdays and Thursdays).  The Tuesday meetings will largely introduce
+general concepts, and the Thursday meetings will tend to be more interactive/lab-type work.
+Weekly homework will be assigned.
 
 ## Course materials ##
 
@@ -77,7 +96,7 @@ where the current schedule, handouts, readings, assignments, and announcements w
 
 ## Grading and Discussion ##
 
-We will use Piazza for class discussion and questions, and Gradescope for homework submission and grading.
+We will use Slack for class discussion and questions, and Gradescope for homework submission and grading.
 You will receive an email with details about creating an account and logging on.
 
 ## Assignments and grading criteria ##
@@ -86,66 +105,81 @@ For students taking the course at the graduate level, the homework assignments w
 the topic of the final project will be proposed by the student, and the resulting project will be larger.
 The contributions to the final grade are summarized in the table below.
 
-The course grade is based on four things.
-The largest of these is the score for the weekly homework assignments.
-The homework assignments vary;
-some are exercises to build familiarity with the programming environment,
-others involve multi-step projects building from a question to an analysis and answer and discussion.
-In the final evaluation, the lowest-scoring homework assignment will be dropped from the computation.
-Homework will generally be weekly for the first two thirds of the course; in the latter third the
-final project will occupy this time. The second category is class participation, which accounts for
-15% of the course grade. Participation includes attendance,
-being prepared to provide answers to exercises in discussion, and general engagement.
-The third category is the midterm exam
-(the same exam for graduate students and undergraduate students),
-which will largely be a test of facility with Python and with the natural language framework,
-will take place at about the middle of the semester, and account for 15% of the course grade.
-The final category is the final project,
-which accounts for 20% (undergraduate) or 30% (graduate) of the grade overall.
-Students taking the undergraduate course will have a project topic outlined for them to work with,
-while students taking the graduate course will be responsible for finding and proposing a suitable topic.
-A progress report in the form of a written methodology section will be due prior to the finished project.
-The finished project will take the form a research paper,
-10 pages (undergraduate) to 20 pages (graduate) in length.
+The course grade is based on three main things:
+**weekly homework assignments**,
+the small **midterm group project**,
+and the overall **course project**.
+The homework assignments will be exercises to build familiarity with the programming environment,
+or multi-step mini-projects building from a question to an analysis and answer and discussion.
+The homework assignments will mostly be concentrated in the first two-thirds of the course,
+with the remaining time focused more on projects.
+The midterm project will be done in small groups, and serves as a kind of "dry run" for the
+larger independent course project.
+The course project will involve proposing (graduate students) or selecting (undergraduate students)
+a project topic, working through the coding and data analysis,
+writing up a paper, and briefly presenting (graduate students) the results at the end of the semester.
+There are no exams (midterm, final) for this course.
 
 <table>
-<tr>
-<td></td>
-<td style="text-align:right;background-color: #dddddd">Undergraduate (LX 496)</td>
-<td style="text-align:right;background-color: #dddddd">Graduate (LX 796)</td>
-</tr>
-<tr>
-<td style="text-align:right;background-color: #dddddd">Homework</td>
-<td>50%</td>
-<td>40%</td>
-</tr>
-<tr>
-<td style="text-align:right;background-color: #dddddd">Participation</td>
-<td>15%</td>
-<td>15%</td>
-</tr>
-<tr>
-<td style="text-align:right;background-color: #dddddd">Midterm</td>
-<td>15%</td>
-<td>15%</td>
-</tr>
-<tr>
-<td style="text-align:right;background-color: #dddddd">Final project: Proposal</td>
-<td>--</td>
-<td>10%</td>
-</tr>
-<tr>
-<td style="text-align:right;background-color: #dddddd">Final project: Methodology</td>
-<td>10%</td>
-<td>5%</td>
-</tr>
-<tr>
-<td style="text-align:right;background-color: #dddddd">Final project: Final paper</td>
-<td>10%</td>
-<td>15%</td>
-</tr>
+    <colgroup>
+        <col width="60%" />
+        <col width="20%" />
+        <col width="20%" />
+    </colgroup>
+    <thead>
+        <tr class="header">
+            <th></th>
+            <th>Undergrad (LX 394)</th>
+            <th>Grad (LX 694)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="row-label">Homework</td>
+            <td markdown="span">50%</td>
+            <td markdown="span">45%</td>
+        </tr>
+        <tr>
+            <td class="row-label">Small group project</td>
+            <td markdown="span">20%</td>
+            <td markdown="span">15%</td>
+        </tr>
+        <tr>
+            <td class="row-label">Final project proposal</td>
+            <td markdown="span">&mdash;</td>
+            <td markdown="span">10%</td>
+        </tr>
+        <tr>
+            <td class="row-label">Final project: results</td>
+            <td markdown="span">10%</td>
+            <td markdown="span">10%</td>
+        </tr>
+        <tr>
+            <td class="row-label">Final project: paper</td>
+            <td markdown="span">15%</td>
+            <td markdown="span">15%</td>
+        </tr>
+        <tr>
+            <td class="row-label">Final project: presentation</td>
+            <td markdown="span">&mdash;%</td>
+            <td markdown="span">5%</td>
+        </tr>
+    </tbody>
 </table>
 
+
+## Final course project ##
+The final course project accounts for
+30% (undergraduate) or 40% (graduate) of the grade overall, divided into several components.
+The proposal (graduate students) outlines the question to answer and the anticipated plan of approach.
+The "results" component is largely a status report, a sketch of what you've tried, what you've
+found, what's left to do.  Ideally this would be the data you will present in your paper, but
+without the prose you will be adding for the paper.
+The paper is a write-up of the project, which describes the problem, the approach, the results,
+the implications, and possible further directions the project could go. The paper should be approximately
+10 pages (undergraduate) or 20 pages (graduate) of prose (not counting code, charts, tables, etc.).
+The presentation (grad students) is a short (10 minute) presentation of the project to the class on
+one of last Tuesdays of the semester.
 
 ## Resources ##
 

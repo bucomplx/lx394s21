@@ -18,6 +18,27 @@ table th {
 	background-color: #98fb98;
 }
 
+.highlighter-background {
+	background-color: yellow;
+}
+
+.row-label {
+	background-color: #dddddd;
+	font-weight: bold;
+	text-align: right;
+}
+
+.tuesday {
+	background-color: #aaddaa;
+	font-weight: bold;
+	font-family: monospace;
+}
+.thursday {
+	background-color: #dddddd;
+	font-weight: bold;
+	font-family: monospace;
+}
+
 // I want grid lines in my tables
 table td {
 	border: 1px solid #006400;
