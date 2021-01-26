@@ -10,7 +10,7 @@ remote_theme: mmistakes/minimal-mistakes
 # I believe this is needed to work locally.
 github: [metadata]
 
-title                    : "Computational Linguistics"
+title                    : "Intro to Programming for Computational Linguistics"
 #email:
 #title_separator          : "-"
 #locale                   : "en"
@@ -95,9 +95,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "CAS LX 394<br>GRS LX 694<br>Spring 2021"
+  name             : "CAS LX 394<br>GRS LX 694<br>MET 594<br>Spring 2021"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computational Linguistics"
+  bio              : "Intro to Programming for Computational Linguistics"
   location         : "Boston University"
   email            :
   uri              :

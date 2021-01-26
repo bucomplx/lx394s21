@@ -17,7 +17,7 @@ This is the current view of how the semester will proceed, but the schedule *wil
 Homework is due at the end of the week it appears in.
 Generally, this will be a Saturday morning deadline
 (due at the end of Friday, but with a grace period until Saturday morning).
-The first homework assignment is due at the end of Friday January 29.
+The first real homework assignment is due at the end of Friday February 12.
 
 In the readings column, "Chapters:sections" refer to the NLTK book.
 
@@ -49,7 +49,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 1:1-3,5; 2:2-3
             </td>
             <td rowspan="2" markdown="span">
-                [Python warmup]({{ site.baseurl }}{% post_url 2021-01-15-greetings %})
+                &mdash;
             </td>
         </tr>
         <tr>
