@@ -56,8 +56,11 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
             <td markdown="span" class="thursday">
                 R 1/28
             </td>
-            <td colspan="2" rowspan="1" markdown="span">
-                Python basics
+            <td colspan="1" rowspan="1" markdown="span">
+               Python basics/tools
+            </td>
+            <td colspan="1" rowspan="1" markdown="span">
+               More advanced tools notes
             </td>
             <td markdown="span">
                 1:4; 4:all
