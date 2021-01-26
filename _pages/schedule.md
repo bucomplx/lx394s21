@@ -65,7 +65,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
         </tr>
         <tr>
             <td markdown="span" class="tuesday">
-                T 2/9
+                T 2/2
             </td>
             <td colspan="2" rowspan="1" markdown="span">
                 Characterizing text
@@ -73,8 +73,36 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
             <td markdown="span">
                 5:all, 3:2-3
             </td>
-            <td rowspan="3" markdown="span">
+            <td rowspan="2" markdown="span">
                 Authorship
+            </td>
+        </tr>
+        <tr>
+            <td markdown="span" class="thursday">
+                R 2/4
+            </td>
+            <td colspan="1" rowspan="1" markdown="span">
+               Python basics
+            </td>
+            <td colspan="1" rowspan="1" markdown="span">
+               Retrieving texts
+            </td>
+            <td markdown="span">
+                3:1
+            </td>
+        </tr>
+        <tr>
+            <td markdown="span" class="tuesday">
+                T 2/9
+            </td>
+            <td colspan="2" rowspan="1" markdown="span">
+               Classification, training, sentiment analysis
+            </td>
+            <td markdown="span">
+                6:all
+            </td>
+            <td rowspan="2" markdown="span">
+                Sentiment analysis
             </td>
         </tr>
         <tr>
@@ -85,10 +113,10 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                Python basics
             </td>
             <td colspan="1" rowspan="1" markdown="span">
-               Retrieving texts
+               PyTorch intro
             </td>
             <td markdown="span">
-                3:1
+                TBA
             </td>
         </tr>
         <tr>
@@ -110,46 +138,18 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 T 2/23
             </td>
             <td colspan="2" rowspan="1" markdown="span">
-               Classification, training, sentiment analysis
+               Text generation, pronunciation
             </td>
             <td markdown="span">
                 6:all
             </td>
             <td rowspan="2" markdown="span">
-                Sentiment analysis
+                Haiku
             </td>
         </tr>
         <tr>
             <td markdown="span" class="thursday">
                 R 2/25
-            </td>
-            <td colspan="1" rowspan="1" markdown="span">
-               Python basics
-            </td>
-            <td colspan="1" rowspan="1" markdown="span">
-               PyTorch intro
-            </td>
-            <td markdown="span">
-                TBA
-            </td>
-        </tr>
-        <tr>
-            <td markdown="span" class="tuesday">
-                T 3/2
-            </td>
-            <td colspan="2" rowspan="1" markdown="span">
-               Text generation, pronunciation
-            </td>
-            <td markdown="span">
-                2:4-5
-            </td>
-            <td rowspan="2" markdown="span">
-               Haiku
-            </td>
-        </tr>
-        <tr>
-            <td markdown="span" class="thursday">
-                R 3/4
             </td>
             <td colspan="1" rowspan="1" markdown="span">
                Python basics
@@ -163,10 +163,38 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
         </tr>
         <tr>
             <td markdown="span" class="tuesday">
-                T 3/9
+                T 3/2
             </td>
             <td colspan="2" rowspan="1" markdown="span">
                Representing syntax
+            </td>
+            <td markdown="span">
+                2:4-5
+            </td>
+            <td rowspan="2" markdown="span">
+               Tree parsing
+            </td>
+        </tr>
+        <tr>
+            <td markdown="span" class="thursday">
+                R 3/4
+            </td>
+            <td colspan="1" rowspan="1" markdown="span">
+               Python basics
+            </td>
+            <td colspan="1" rowspan="1" markdown="span">
+               Parsers
+            </td>
+            <td markdown="span">
+                TBA
+            </td>
+        </tr>
+        <tr>
+            <td markdown="span" class="tuesday">
+                T 3/9
+            </td>
+            <td colspan="2" rowspan="1" markdown="span">
+               Analyzing semantics
             </td>
             <td markdown="span">
                 8:1-3; 9:1,3
@@ -183,7 +211,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                Python basics
             </td>
             <td colspan="1" rowspan="1" markdown="span">
-               Parsers
+               Semantic models
             </td>
             <td markdown="span">
                 (8:4-6)
@@ -194,7 +222,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 T 3/16
             </td>
             <td colspan="2" rowspan="1" markdown="span">
-               Analyzing semantics
+               Representing semantics
             </td>
             <td markdown="span">
                 10:all
