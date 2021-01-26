@@ -17,7 +17,7 @@ This is the current view of how the semester will proceed, but the schedule *wil
 Homework is due at the end of the week it appears in.
 Generally, this will be a Saturday morning deadline
 (due at the end of Friday, but with a grace period until Saturday morning).
-The first real homework assignment is due at the end of Friday February 12.
+The first real homework assignment is due at the end of Friday February 5.
 
 In the readings column, "Chapters:sections" refer to the NLTK book.
 
