@@ -33,8 +33,8 @@ author_profile: true
 </table>
 
 **Course Description:**
-Introduction to computational techniques to explore linguistic models and test empirical claims.  
-Serves as an introduction to algorithms, and data structures, and tool libraries.  
+Introduction to computational techniques to explore linguistic models and test empirical claims.
+Serves as an introduction to algorithms, and data structures, and tool libraries.
 Topics include tagging and classification, parsing models, meaning representation, corpus creation, information extraction.
 
 **Spring 2021 note on "tracks":**
