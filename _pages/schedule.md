@@ -104,7 +104,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
             <td markdown="span">
                 6:all
             </td>
-            <td rowspan="2" markdown="span">
+            <td rowspan="3" markdown="span">
                 Sentiment analysis
             </td>
         </tr>
