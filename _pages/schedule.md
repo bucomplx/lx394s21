@@ -77,7 +77,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 5:all, 3:2-3
             </td>
             <td rowspan="2" markdown="span">
-                Authorship
+                [Haiku]({{ site.baseurl }}/assets/ipynb/lx_94s21_hw1.ipynb.zip)
             </td>
         </tr>
         <tr>
@@ -147,7 +147,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 6:all
             </td>
             <td rowspan="2" markdown="span">
-                Haiku
+                Authorship
             </td>
         </tr>
         <tr>

@@ -1,21 +1,21 @@
 ---
 layout: single
 title: Texts
-permalink: "/hw6-texts/"
+permalink: "/hw1-texts/"
 ---
 
 <div class="title-table clear-table center-table" markdown="1">
 
 | :--------    | :--:        | -:           |
-| CAS LX 394 / | NLP/CL      | Homework 6   |
-| GRS LX 694   | Spring 2021 | Due FRI 4/5 |
+| CAS LX 394 / | NLP/CL      | Homework 1   |
+| GRS LX 694   | Spring 2021 | Due WED 2/10 |
 
 </div>
 
 
 ### NOTE THE DUE DATE ###
 
-Because it took me all the way until Friday to get this posted,
+Because it took me all the way until Tuesday to get this posted,
 it is not super necessary to have it done by class time on Monday.
 I've set the due date to Friday next week.  Though as usual I
 don't really think it'll necessarily take all that long.
@@ -63,7 +63,7 @@ I put what I got for *My Man Jeeves* into `mmj_url`.
 Your first task is to find `rhj_url`.
 
 ```python
->>> mmj_url = 'http://www.gutenberg.org/cache/epub/8164/pg8164.txt'
+mmj_url = 'http://www.gutenberg.org/cache/epub/8164/pg8164.txt'
 ```
 
 <!-- it will in fact be
