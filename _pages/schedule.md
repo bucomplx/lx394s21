@@ -14,11 +14,6 @@ This is the current view of how the semester will proceed, but the schedule *wil
 **Do not rely on a printed or saved copy**; the truth is here:
 <https://bucomplx.github.io/lx394s21/schedule/>.
 
-Homework is due at the end of the week it appears in.
-Generally, this will be a Saturday morning deadline
-(due at the end of Friday, but with a grace period until Saturday morning).
-The first real homework assignment is due at the end of Friday February 5.
-
 In the readings column, "Chapters:sections" refer to the NLTK book.
 
 <table>
@@ -78,6 +73,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
             </td>
             <td rowspan="2" markdown="span">
                 [Haiku]({{ site.baseurl }}/assets/ipynb/lx_94s21_hw1.ipynb.zip)
+                (due Wed Feb 10)
             </td>
         </tr>
         <tr>
