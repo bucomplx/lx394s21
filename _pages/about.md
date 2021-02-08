@@ -28,7 +28,7 @@ author_profile: true
 </tr>
 <tr>
 <td class="row-label">Office Hours</td>
-<td>M 3:30-4:30, T 11-12, R 5-6</td>
+<td>M 3-4, T 11-12, R 5-6</td>
 </tr>
 </table>
 
