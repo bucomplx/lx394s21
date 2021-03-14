@@ -101,7 +101,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 6:all
             </td>
             <td rowspan="3" markdown="span">
-                [Sentiment analysis]({{ site.baseurl }}/assets/ipynb/lx694s21_hw2.ipynb.zip)
+                &mdash;
             </td>
         </tr>
         <tr>
@@ -143,7 +143,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 6:all
             </td>
             <td rowspan="2" markdown="span">
-                Authorship
+                &mdash;
             </td>
         </tr>
         <tr>
@@ -171,7 +171,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 2:4-5
             </td>
             <td rowspan="2" markdown="span">
-               Tree parsing
+               &mdash;
             </td>
         </tr>
         <tr>
@@ -199,7 +199,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 8:1-3; 9:1,3
             </td>
             <td rowspan="3" markdown="span">
-                Tree parsing
+               [Sentiment analysis]({{ site.baseurl }}/assets/ipynb/lx694s21_hw2.ipynb.zip)
             </td>
         </tr>
         <tr>
