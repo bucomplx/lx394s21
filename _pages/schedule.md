@@ -101,8 +101,10 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 6:all
             </td>
             <td rowspan="3" markdown="span">
+                Sentiment analysis
+                <!--
                 [Sentiment analysis]({{ site.baseurl }}/assets/ipynb/lx694s21_hw2.ipynb.zip)
-                (due Wed Mar 24)
+                -->
             </td>
         </tr>
         <tr>
