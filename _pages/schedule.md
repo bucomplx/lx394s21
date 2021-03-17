@@ -199,7 +199,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 8:1-3; 9:1,3
             </td>
             <td rowspan="3" markdown="span">
-               [Sentiment analysis]({{ site.baseurl }}/assets/ipynb/tests/lx694s21_hw2.ipynb.zip)
+               [Sentiment analysis]({{ site.baseurl }}/assets/ipynb/hw2/lx694s21_hw2.ipynb.zip)
             </td>
         </tr>
         <tr>
