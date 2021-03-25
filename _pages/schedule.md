@@ -8,7 +8,7 @@ order: 20
 ---
 
 **NOTE** This needs to be double-checked, and will be shortly.
-Though it will also change during the semester.
+Though it will also change during the semester.  It needs to be updated.
 
 This is the current view of how the semester will proceed, but the schedule *will* be adjusted from time to time.
 **Do not rely on a printed or saved copy**; the truth is here:
