@@ -238,7 +238,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 TBA
             </td>
             <td rowspan="2" markdown="span">
-                Group project (SHRDLU)
+                &mdash;
             </td>
         </tr>
         <tr>
@@ -266,7 +266,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 TBA
             </td>
             <td rowspan="2" markdown="span">
-                Project proposal/choice
+                Homework 3: SHRDLU
             </td>
         </tr>
         <tr>
@@ -282,13 +282,13 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 T 4/4
             </td>
             <td colspan="2" rowspan="2" markdown="span">
-               Statistics and plotting
+               Machine learning
             </td>
             <td markdown="span">
                 TBA
             </td>
             <td rowspan="2" markdown="span">
-                Data presentation
+                Project proposal/choice
             </td>
         </tr>
         <tr>
@@ -304,10 +304,10 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 T 4/13
             </td>
             <td colspan="2" rowspan="2" markdown="span">
-               Machine learning
+               Statistics and plotting
             </td>
             <td markdown="span">
-                TBA
+                Data presentation
             </td>
             <td rowspan="2" markdown="span">
                 Project results
