@@ -1,9 +1,6 @@
 test = {   'name': 'q3',
     'points': 1,
-    'suites': [   {   'cases': [   {   'code': '>>> minispec = {\'top\': r""";\n'
-                                               '>>> % start Adj;\n'
-                                               '>>> """;\n'
-                                               '>>> };\n'
+    'suites': [   {   'cases': [   {   'code': '>>> minispec = {\'top\': "% start Adj"};\n'
                                                ">>> minispec['adj'] = gramspec['adj'];\n"
                                                '>>> full_spec = assemble_spec(minispec);\n'
                                                '>>> new_grammar = grammar.FeatureGrammar.fromstring(full_spec);\n'

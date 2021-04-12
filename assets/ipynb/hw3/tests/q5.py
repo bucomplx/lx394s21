@@ -1,7 +1,7 @@
 test = {   'name': 'q5',
     'points': 1,
     'suites': [   {   'cases': [   {   'code': ">>> hey_robot('reset');\n"
-                                               ">>> hey_robot('put a thing on a thing');\n"
+                                               ">>> hey_robot('put a thing on a red thing');\n"
                                                '>>> assert (\'e\', \'a\') in m.valuation[\'on\'], "Was unable to deposit a pyramid on something else."\n'
                                                'World reset to initial state.\n'
                                                'Already holding a thing of the right kind.\n'
