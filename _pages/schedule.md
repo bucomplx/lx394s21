@@ -266,7 +266,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 TBA
             </td>
             <td rowspan="2" markdown="span">
-                Homework 3: SHRDLU
+                --
             </td>
         </tr>
         <tr>
@@ -288,7 +288,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 TBA
             </td>
             <td rowspan="2" markdown="span">
-                Project proposal/choice
+                --
             </td>
         </tr>
         <tr>
@@ -310,7 +310,7 @@ In the readings column, "Chapters:sections" refer to the NLTK book.
                 Data presentation
             </td>
             <td rowspan="2" markdown="span">
-                Project results
+                [SHRDLU]({{ site.baseurl }}/assets/ipynb/hw3/lx694s21_hw3.ipynb.zip)
             </td>
         </tr>
         <tr>
